@@ -1,11 +1,15 @@
 class Solution(object):
     def removeElement(self, nums, val):
-        if not nums and not val:
-            return 0
-        slow = 0
-        for fast in range (0, len(nums)):
-            if nums[fast] != val:
-                if fast != slow:
-                    nums[slow] = nums[fast]
-                slow += 1
-        return slow
+        """
+        :type nums: List[int]
+        :type val: int
+        :rtype: int
+        """
+        k = now = 0
+        while now < len(nums):
+            if nums[now] != val:
+                nums[k] = nums[now]
+                k+=1
+            now+=1
+        return k
+        
