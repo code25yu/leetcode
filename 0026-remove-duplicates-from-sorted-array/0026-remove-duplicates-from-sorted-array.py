@@ -1,10 +1,13 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        if not nums:
-            return 0
-        slow = 0
-        for fast in range(1, len(nums)):
-            if nums[fast] != nums[slow]:
-                slow += 1
-                nums[slow] = nums[fast]
-        return slow + 1
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        k, now = 0, 1
+        while now < len(nums):
+            if nums[k] != nums[now]:
+                nums[k + 1] = nums[now]
+                k+=1
+            now+=1
+        return k + 1
