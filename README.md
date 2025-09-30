@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/code25yu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/code25yu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/code25yu/leetcode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/code25yu/leetcode/tree/master/0279-perfect-squares) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 ## Sorting
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/code25yu/leetcode/tree/master/0279-perfect-squares) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/code25yu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/code25yu/leetcode/tree/master/0118-pascals-triangle) |
+| [0279-perfect-squares](https://github.com/code25yu/leetcode/tree/master/0279-perfect-squares) |
 ## Prefix Sum
 |  |
 | ------- |
