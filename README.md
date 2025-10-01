@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/code25yu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/code25yu/leetcode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/code25yu/leetcode/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/code25yu/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
