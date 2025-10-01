@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/code25yu/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/code25yu/leetcode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/code25yu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0739-daily-temperatures](https://github.com/code25yu/leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 | [0860-design-circular-queue](https://github.com/code25yu/leetcode/tree/master/0860-design-circular-queue) |
 | [0978-valid-mountain-array](https://github.com/code25yu/leetcode/tree/master/0978-valid-mountain-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/code25yu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/code25yu/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/code25yu/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/code25yu/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
