@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/code25yu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/code25yu/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/code25yu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/code25yu/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
@@ -139,10 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/code25yu/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/code25yu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/code25yu/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/code25yu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/code25yu/leetcode/tree/master/0860-design-circular-queue) |
 ## Union Find
 |  |
