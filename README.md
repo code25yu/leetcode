@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code25yu/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/code25yu/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/code25yu/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/code25yu/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/code25yu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/code25yu/leetcode/tree/master/0013-roman-to-integer) |
 | [0279-perfect-squares](https://github.com/code25yu/leetcode/tree/master/0279-perfect-squares) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/code25yu/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/code25yu/leetcode/tree/master/0013-roman-to-integer) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 ## Monotonic Stack
 |  |
