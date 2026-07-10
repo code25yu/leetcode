@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code25yu/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/code25yu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code25yu/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/code25yu/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/code25yu/leetcode/tree/master/0088-merge-sorted-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/code25yu/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/code25yu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/code25yu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 ## Monotonic Stack
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/code25yu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/code25yu/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
