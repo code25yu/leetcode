@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/code25yu/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/code25yu/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/code25yu/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/code25yu/leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/code25yu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/code25yu/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/code25yu/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/code25yu/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/code25yu/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/code25yu/leetcode/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/code25yu/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/code25yu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/code25yu/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/code25yu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/code25yu/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/code25yu/leetcode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/code25yu/leetcode/tree/master/0242-valid-anagram) |
 | [0753-open-the-lock](https://github.com/code25yu/leetcode/tree/master/0753-open-the-lock) |
 ## Monotonic Stack
 |  |
