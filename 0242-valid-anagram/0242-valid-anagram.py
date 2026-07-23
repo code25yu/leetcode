@@ -1,33 +1,46 @@
-# from collections import Counter
+# Solution4
+from collections import Counter
 
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        # # Solution1
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        # # Solution 1
         # return sorted(s) == sorted(t)
 
         # # Solution2
-        # return Counter(s) == Counter(t)
+        # if len(s) != len(t):
+        #     return False
+        # count = {}
 
-        # Solution3
-        if len(s) != len(t):
-            return False
-        count = {}
-        for ch in s:
-            count[ch] = count.get(ch, 0) + 1
-        # dict.get(key, default)
-        # key: 찾고 싶은 키
-        # default: 그 키가 딕셔너리에 없을 경우 대신 반환할 값 (생략하면 None)
-        # count.get(ch, 0) → 현재까지 센 개수를 가져옴 (없으면 0)
-        # 여기에 + 1을 해서 → "지금 문자 하나를 새로 발견했으니 개수를 1 늘린다"
-        for ch in t:
-            if ch not in count:
-                return False
-            count[ch] -= 1
-            if count[ch] == 0:
-                del count[ch]    
-        return len(count) == 0
+        # # s의 문자 개수를 센다 (+1)
+        # for char in s:
+        #     count[char] = count.get(char, 0) + 1
+        
+        # # t의 문자 개수를 뺀다 (-1)
+        # for char in t:
+        #     count[char] = count.get(char, 0) - 1
+
+        # # 모든 값이 0이면 개수가 정확히 일치한다는 뜻
+        # for value in count.values():
+        #     if value != 0:
+        #         return False
+
+        # return True
+
+        # # Solution3
+        # # 문제 조건에서 s, t가 소문자 영어 알파벳(a-z, 26개)로만 이루어져 있다고 했으므로, 딕셔너리 대신 크기 26짜리 배열을 써도 됨.
+        # if len(s) != len(t):
+        #     return False
+        
+        # count = [0] * 26  # a~z, 26개 알파벳 전용 카운터
+        
+        # # ord()는 문자를 아스키(ASCII) 코드 번호로 변환해주는 파이썬 내장 함수
+        # # count의 각 원소 c를 하나씩 꺼내서 c == 0인지 (0과 같은지) True/False로 바꾼다 
+        # for i in range(len(s)):
+        #     count[ord(s[i]) - ord('a')] += 1
+        #     count[ord(t[i]) - ord('a')] -= 1
+
+        # return all(c == 0 for c in count)
+        # # all()은 괄호 안의 모든 값이 True일 때만 True를 반환하는 내장 함수
+        
+        # Solution4
+        return Counter(s) == Counter(t)
